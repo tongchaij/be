@@ -1,0 +1,5 @@
+# Golang
+
+Backend-assignment
+
+https://github.com/7-solutions/backend-challenge?fbclid=IwY2xjawGbo8BleHRuA2FlbQIxMAABHfFJLrRZ-dZ25D07q1uZpT2KFyq72LvUwSYIVQJIxWHnvfpI8ifPfwTVIw_aem_pi_IrJ8Uu32Y0RY35YBM-w
