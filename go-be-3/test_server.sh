@@ -1,0 +1,1 @@
+go test -timeout 30s be3/server

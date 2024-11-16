@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option go_package = "be3/beef";
+
+package beef;
+
+// The beef counting service definition.
+service Beef {
+  // Summary beef counting
+  rpc Summary (SummaryRequest) returns (SummaryReply) {}
+
+}
+
+// The request message containing the file content.
+message SummaryRequest {
+  string content = 1;
+}
+
+// The response message containing the beef counting summary
+message SummaryReply {
+  string json = 1;
+}
